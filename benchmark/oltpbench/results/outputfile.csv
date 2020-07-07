@@ -1,0 +1,7 @@
+Transaction Type Index,Transaction Name,Start Time (microseconds),Latency (microseconds),Worker Id (start number),Phase Id (index in config file)
+3,OrderStatus,1594115343.345220,932047,0,0
+2,Payment,1594115343.345524,2435440,0,0
+1,NewOrder,1594115344.781525,12285505,0,0
+1,NewOrder,1594115356.068292,10483379,0,0
+5,StockLevel,1594115365.552116,1958369,0,0
+1,NewOrder,1594115366.510197,6833590,0,0

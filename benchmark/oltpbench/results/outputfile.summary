@@ -1,0 +1,21 @@
+{
+ "Benchmark Type": "tpcc",
+ "Current Timestamp (milliseconds)": 1594115376729,
+ "DBMS Type": "db2",
+ "DBMS Version": "12.1",
+ "Latency Distribution": {
+  "Minimum Latency (microseconds)": 932047,
+  "25th Percentile Latency (microseconds)": 1958369,
+  "Median Latency (microseconds)": 6833590,
+  "Average Latency (microseconds)": 5821388,
+  "75th Percentile Latency (microseconds)": 10483379,
+  "90th Percentile Latency (microseconds)": 12285505,
+  "95th Percentile Latency (microseconds)": 12285505,
+  "99th Percentile Latency (microseconds)": 12285505,
+  "Maximum Latency (microseconds)": 12285505
+ },
+ "Throughput (requests/second)": 0.1999993251822769,
+ "isolation": "TRANSACTION_SERIALIZABLE",
+ "scalefactor": "1",
+ "terminals": "1"
+}
